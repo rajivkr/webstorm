@@ -3,13 +3,24 @@
     <property name="created">2017-08-19T20:48:41</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2017-08-19T20:54:10</property>
+    <property name="modified">2017-08-19T23:34:31</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="1d36aa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="1fc61e" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="870522" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
