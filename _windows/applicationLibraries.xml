@@ -15,6 +15,18 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="Axios" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="node_modules" />
+        <sourceFilesUrls>
+          <item url="file://E:/Code/Webstorm/Node/weather-app/node_modules/axios/index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://E:/Code/Webstorm/Node/weather-app/node_modules/axios/index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="node-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -23,6 +35,28 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_node_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="request-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_request_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_request_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="yargs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_yargs_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_yargs_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
