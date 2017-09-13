@@ -1,5 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
+    <macro name="PATH" value="C:/Program Files (x86)/Intel/iCLS Client/;C:/Program Files/Intel/iCLS Client/;C:/Windows/system32;C:/Windows;C:/Windows/System32/Wbem;C:/Windows/System32/WindowsPowerShell/v1.0/;C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL;C:/Program Files/Intel/Intel(R) Management Engine Components/DAL;C:/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT;C:/Program Files/Intel/Intel(R) Management Engine Components/IPT;C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common;C:/Program Files/Java/jdk1.8.0_131/bin;E:/Softwares/apache-maven-3.5.0/bin;E:/Softwares/MongoDB/Server/3.4/bin;C:/WINDOWS/system32;C:/WINDOWS;C:/WINDOWS/System32/Wbem;C:/WINDOWS/System32/WindowsPowerShell/v1.0/;E:/Softwares/gradle-3.5/bin;C:/Users/rajiv/AppData/Local/Microsoft/WindowsApps;C:/Users/rajiv/AppData/Roaming/npm;C:/adb;C:/Program Files (x86)/Heroku/bin;E:/IDE/Brackets/command;E:/Softwares/nodejs/;E:/Setups/chromedriver_win32/;E:/Softwares/Git/cmd;E:/Softwares/Git/mingw64/bin;E:/Softwares/Git/usr/bin;C:/Users/rajiv/AppData/Local/Microsoft/WindowsApps;C:/Program Files/Java/jdk1.8.0_131/bin;C:/Users/rajiv/AppData/Roaming/npm;C:/Program Files (x86)/Heroku/bin;" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
     <ignoredMacro name="LINE" />
