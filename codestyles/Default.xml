@@ -1,4 +1,7 @@
 <code_scheme name="Default">
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
