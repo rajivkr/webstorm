@@ -5,4 +5,9 @@
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
