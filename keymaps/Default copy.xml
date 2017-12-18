@@ -1,6 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="shift z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
@@ -8,6 +9,7 @@
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="shift z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
