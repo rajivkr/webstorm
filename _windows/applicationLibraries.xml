@@ -37,9 +37,6 @@
     <library name="Axios" type="javaScript">
       <properties>
         <option name="frameworkName" value="node_modules" />
-        <sourceFilesUrls>
-          <item url="file://E:/Code/Webstorm/Node/weather-app/node_modules/axios/index.d.ts" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://E:/Code/Webstorm/Node/weather-app/node_modules/axios/index.d.ts" />
